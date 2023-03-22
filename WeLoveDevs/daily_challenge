@@ -1,5 +1,5 @@
 What is the main purpose of the HTML <picture> element introduced in HTML5?
   Create an image slideshow on a web page.
   Provide native support for video playback on a web page.
-  Allow the display of different image sources based on conditions, such as screen dimensions or file type.
+  - Allow the display of different image sources based on conditions, such as screen dimensions or file type.
   Insert an image with a caption and credit attributes for copyright.
